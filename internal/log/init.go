@@ -12,7 +12,7 @@ var (
 )
 
 // init log
-func initLog(filePath string) {
+func InitLog(filePath string) {
 	gflg = &flg.Logger{}
 
 	err := gflg.LoadFromFile(filePath)
