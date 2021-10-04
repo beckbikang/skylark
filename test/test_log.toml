@@ -1,7 +1,7 @@
 title="test flg"
 
 [jackcfg]
-filename="test.log"
+filename="skylark.log"
 maxsize=500
 maxage=7
 maxbackups=1000
