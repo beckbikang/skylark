@@ -9,4 +9,4 @@ skylark is an alerting service writing in golang
 
 1. start a project [done]
 2. use cobra make cmd [done]
-3. 
+3. add log zap and lumberjack
